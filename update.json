@@ -1,0 +1,6 @@
+{
+    "version": "0.4.1",
+    "msi": "https://github.com/Fablelabs-in/Everything-Downloader-releases/releases/download/v0.4.1/EverythingDownloader-0.4.1-win-x64.msi",
+    "sha256": "6563e0cfef3081d747605beec80648511701f6b134550b1259afb140a499458f",
+    "notes": "Bug fixes and production hardening. See CHANGELOG.md for details."
+}
